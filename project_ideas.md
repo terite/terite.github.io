@@ -9,4 +9,5 @@
   * wolfram alpha
   * karma (user++)
   * imageme (show first image from google images)
+  * https versions of http links
   * MORE EXTENSIONS
