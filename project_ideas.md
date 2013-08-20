@@ -5,10 +5,8 @@
   * allow for more than one class per file
   * function autoloader, somehow?
   * Warn about side effects
-3. PHP Framework (even if I risk becoming a "PHP Developer")
-  * take inspiration from express
-  * How close is Silex to what I want to do?
-  * How much of a pain will tooling be?
-    * ORM migrations
-    * self-check tool?
-    * more?
+3. IRC bot
+  * wolfram alpha
+  * karma (user++)
+  * imageme (show first image from google images)
+  * MORE EXTENSIONS
