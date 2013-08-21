@@ -11,3 +11,9 @@
   * imageme (show first image from google images)
   * https versions of http links
   * MORE EXTENSIONS
+4. Better PHP ORM
+  * Configuraiton like PHP_ActiveRecord
+  * Good tools (migrations primarily)
+  * Not necessarily ActiveRecord
+     * doctrine like entity manager
+     * `use ActiveRecordTrait`
