@@ -5,12 +5,9 @@
   * allow for more than one class per file
   * function autoloader, somehow?
   * Warn about side effects
-3. IRC bot
+3. Hubot addons
   * wolfram alpha
-  * karma (user++)
-  * imageme (show first image from google images)
   * https versions of http links
-  * MORE EXTENSIONS
 4. Better PHP ORM
   * Configuraiton like PHP_ActiveRecord
   * Good tools (migrations primarily)
