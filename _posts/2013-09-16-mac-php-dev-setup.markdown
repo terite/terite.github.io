@@ -88,10 +88,28 @@ supported, so you need an entry for every project.
 Because I chose to use a domain I control, I can just add DNS wildcard DNS
 records to get this to work. I want to add 2 DNS records for terite.com
 
-| Type | Name | Value |
-|------|------|-------|
-|A|dev|127.0.0.1|
-|A|\*.dev|127.0.0.1|
+<table class="table table-condensed">
+<thead>
+    <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Value</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>A</td>
+        <td>dev</td>
+        <td>127.0.0.1</td>
+    </tr>
+    <tr>
+        <td>A</td>
+        <td>*.dev</td>
+        <td>127.0.0.1</td>
+    </tr>
+</tbody>
+
+</table>
 
 #### Local wildcard DNS
 If you don't control a domain, or want a short url like *$project.dev*, you
