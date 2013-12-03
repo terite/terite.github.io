@@ -16,4 +16,4 @@ title: Proejct ideas
   * wolfram alpha (or DDG?) calculations
   * https versions of http links
 
-4. Graylog2 server in node
+4. Graylog2 server & webui in node & angular/backbone/whatever
