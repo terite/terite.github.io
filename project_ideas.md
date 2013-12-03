@@ -15,3 +15,5 @@ title: Proejct ideas
 3. Hubot addons
   * wolfram alpha (or DDG?) calculations
   * https versions of http links
+
+4. Graylog2 server in node
