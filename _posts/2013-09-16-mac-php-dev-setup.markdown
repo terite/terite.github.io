@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PHP 5.4+ Development on OS X"
+title:  "Modern PHP Development on OS X"
 ---
 
 OS X 10.8 comes with Apache 2.2.22 and PHP 5.3.15 (with Suhosin).
