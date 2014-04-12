@@ -1,3 +1,6 @@
 name: David Stensland's Blog
 pygments: true
-exclude: CNAME
+markdown: kramdown
+
+exclude:
+    CNAME
