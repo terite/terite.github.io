@@ -11,3 +11,17 @@ title: terite is David Stensland
     {% endfor %}
   </ul>
 </div>
+
+<iframe
+    id="catfinder"
+    src="http://adultcatfinder.com/embed/"
+    width="320" height="430"
+    style="position:fixed;bottom:0px;right:10px;z-index:100;display:none"
+    frameBorder="0">
+</iframe>
+
+<script type="text/javascript">
+setTimeout(function () {
+    document.getElementById('catfinder').style.display = 'block'
+}, 1500);
+</script>
