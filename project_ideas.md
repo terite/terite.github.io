@@ -10,5 +10,4 @@ title: Proejct ideas
 2. Hubot addons
   * wolfram alpha (or DDG?) calculations
   * https versions of http links
-
-3. Cron style job runner w/ central admin panel
+  * One night ultimate werewolf bot.
