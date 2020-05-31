@@ -1,6 +1,0 @@
-name: David Stensland's Blog
-pygments: true
-markdown: kramdown
-
-exclude:
-    CNAME
